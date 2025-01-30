@@ -1,7 +1,5 @@
 
-# Project Title
-
-A brief description of what this project does and who it's for
+# Analyze and Provide Insights on Amazon Sales Report
 
 # **Amazon Sales Report – Power BI Dashboard**  
 
