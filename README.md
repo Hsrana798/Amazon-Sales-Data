@@ -1,8 +1,6 @@
 
 # Analyze and Provide Insights on Amazon Sales Report
-
-# **Amazon Sales Report – Power BI Dashboard**  
-
+ 
 📊 **A comprehensive Power BI dashboard for analyzing Amazon sales trends, product performance, fulfillment efficiency, customer segmentation, and geographical distribution.**  
 
 ### Power BI Dashboard Link: https://drive.google.com/drive/folders/1mkpGzpq-YW9W9j0GSmNlLPQD0Xv8E2-A?usp=sharing
